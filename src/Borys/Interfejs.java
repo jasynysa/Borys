@@ -1,7 +1,7 @@
 package Borys;
 
 
-public interface Interfejs
+public interface Interfejsy
 {
     void f();
 
