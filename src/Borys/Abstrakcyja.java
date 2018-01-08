@@ -1,6 +1,6 @@
 package Borys;
 
-public abstract class Abstrakcyja
+public abstract class Abstrakcyjna
 {
 
 
